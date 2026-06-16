@@ -1,3 +1,3 @@
-"files":
-  - "source": "/uk.json"
-    "translation": "/%two_letters_code%.json"
+files:
+  - source: /uk.json
+    translation: /%two_letters_code%.json
